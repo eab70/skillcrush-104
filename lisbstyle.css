@@ -1,0 +1,32 @@
+body {
+	font-family:serif;
+	background-color:violet;
+}
+
+h1 {
+	font-size: 40px;
+	color: dark blue;
+	margin-bottom: 40px;
+	text-align: center;	
+}
+
+h3 {
+	text-align: center;
+	color: dark blue;
+	font-size: 40px;
+}
+
+h2 {
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+}
+
+p {
+	color: dark blue;
+	font-size: 22px;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-bottom: 30px;
+	
+}
